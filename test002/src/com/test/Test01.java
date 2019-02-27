@@ -26,6 +26,7 @@ public class Test01 {
 		for(int i=0; i<count; i++)
 		{
 			System.out.print("짝");
+			System.out.println("");
 		}
 
 	}
