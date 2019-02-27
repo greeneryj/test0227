@@ -27,6 +27,7 @@ public class Test01 {
 		{
 			System.out.print("짝");
 			System.out.println("");
+			int num2 =0;
 		}
 
 	}
